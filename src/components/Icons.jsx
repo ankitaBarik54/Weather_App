@@ -1,3 +1,4 @@
+// This comment is to trigger Vercel redeploy
 import React from 'react';
 import windIcon from '../assets/wind.png';
 import humidityIcon from '../assets/humidity.png';
